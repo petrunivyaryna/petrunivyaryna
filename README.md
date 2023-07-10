@@ -5,7 +5,7 @@ I am an undergraduate student at UCU, pursuing a major in IT and Business Analyt
 
 I'm working with Python, Arduino IDE, HTML, CSS, SQL, API⌨
 
-I am actively seeking opportunities to gain valuable professional experience with companies and start-ups.
+I am actively seeking opportunities to gain valuable professional experience with companies.
 <br>
 <br>
 
