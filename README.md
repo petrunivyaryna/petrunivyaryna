@@ -3,7 +3,7 @@ I am an undergraduate student at UCU, pursuing a major in IT and Business Analyt
 <br>
 <br>
 
-I'm working with Python, Arduino IDE, HTML, CSS, SQL, API⌨
+I'm working with Python, Arduino IDE, HTML, CSS, SQLite, API⌨
 
 I am actively seeking opportunities to gain valuable professional experience.
 <br>
